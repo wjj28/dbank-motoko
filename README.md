@@ -39,4 +39,4 @@ Additionally, if you are making frontend changes, you can start a development se
 ```bash
 npm start
 ```
-<img src="https://github.com/wjj28/dbank-motoko/blob/main/screenshot.png" width="128"/>
+<img src="https://github.com/wjj28/dbank-motoko/blob/main/screenshot.png" width="500"/>
